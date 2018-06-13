@@ -1,0 +1,6 @@
+c:\users\hys\documents\visual studio 2015\Projects\Security\Security\bin\Debug\Security.exe.config
+c:\users\hys\documents\visual studio 2015\Projects\Security\Security\obj\Debug\Security.csprojResolveAssemblyReference.cache
+c:\users\hys\documents\visual studio 2015\Projects\Security\Security\bin\Debug\Security.exe
+c:\users\hys\documents\visual studio 2015\Projects\Security\Security\bin\Debug\Security.pdb
+c:\users\hys\documents\visual studio 2015\Projects\Security\Security\obj\Debug\Security.exe
+c:\users\hys\documents\visual studio 2015\Projects\Security\Security\obj\Debug\Security.pdb
